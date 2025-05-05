@@ -3,16 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Obstacle
+  - Ground
+  - Agent
+  - EndTrigger
+  - GoalZone
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Finish
   - Water
   - UI
-  - 
-  - 
+  - Floor
+  - Obstacle
   - 
   - 
   - 
