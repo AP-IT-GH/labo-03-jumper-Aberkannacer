@@ -9,6 +9,9 @@ TagManager:
   - Agent
   - EndTrigger
   - GoalZone
+  - SpringObstacle
+  - BonusObstacle
+  - FlyingCatch
   layers:
   - Default
   - TransparentFX
