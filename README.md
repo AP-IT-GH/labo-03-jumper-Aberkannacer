@@ -1,3 +1,5 @@
+# Gemaakt door Nacer Aberkan en Ali El Yousfi
+
 # Jumping Agent – Unity ML-Agents Project
 
 ![Training screenshot](./training.png)
