@@ -1,4 +1,4 @@
-# Gemaakt door Nacer Aberkan en Ali El Yousfi
+### Gemaakt door Nacer Aberkan en Ali El Yousfi
 
 # Jumping Agent – Unity ML-Agents Project
 
